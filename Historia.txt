@@ -1,3 +1,6 @@
 Historia.txt
 Hola, esto es un mensaje de texto en un archivo 
-que se esta tratando de hacer en git
+que se esta tratando de hacer traking en git
+con fecha 01-08-2020
+
+Saludos
