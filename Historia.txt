@@ -1,0 +1,3 @@
+Historia.txt
+Hola, esto es un mensaje de texto en un archivo 
+que se esta tratando de hacer en git
