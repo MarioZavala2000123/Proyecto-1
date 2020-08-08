@@ -6,3 +6,9 @@ con fecha 01-08-2020
 Saludos
 
 NUEVO TEXTO DENTRO DEL ARCHIVO
+
+comandos git
+
+git status
+git add
+git commit -m "menmsaje"
