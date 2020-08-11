@@ -12,3 +12,5 @@ comandos git
 git status
 git add
 git commit -m "menmsaje"
+
+nuevo mensaje en rama 1
